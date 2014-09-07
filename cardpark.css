@@ -13,7 +13,10 @@ div {
     font-size: 100%;
     font-family: verdana;
     background-color: green;
-    
     border-radius: 5px;
 }
 
+.checked {
+    background-color: blue;
+    
+}
