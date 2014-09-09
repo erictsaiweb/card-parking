@@ -20,3 +20,13 @@ div {
     background-color: blue;
     
 }
+
+button {
+    position: relative;
+    top: 280px;
+    left: 8px;
+}
+
+#checkList {
+    height: 0px;
+}
